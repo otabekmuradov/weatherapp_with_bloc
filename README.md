@@ -1,16 +1,2 @@
-# weatherapp_with_bloc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![_2147483648__210590](https://github.com/otabekmuradov/weatherapp_with_bloc/assets/89445846/c1748bf2-f403-430e-863f-2ea1bdd24b79)
+![Screenshot_2023_12_06_10_21_46_178_com_example_weatherapp_with_bloc](https://github.com/otabekmuradov/weatherapp_with_bloc/assets/89445846/f7a12cf2-ef55-4fd2-ac77-9df8c24ca09b)
